@@ -1,0 +1,35 @@
+# Instruções para criar os ícones da extensão
+
+Como não posso gerar imagens diretamente, você precisará criar os ícones manualmente. Aqui estão algumas opções:
+
+## Opção 1: Usar um gerador online (Recomendado)
+1. Acesse: https://www.favicon-generator.org/ ou https://icon.kitchen/
+2. Faça upload de uma imagem do LinkedIn ou crie um ícone personalizado
+3. Configure as dimensões: 16x16, 32x32, 48x48, 128x128
+4. Baixe os ícones e renomeie para:
+   - `icon16.png`
+   - `icon32.png`
+   - `icon48.png`
+   - `icon128.png`
+5. Coloque todos os arquivos na pasta `icons/`
+
+## Opção 2: Usar ícones temporários simples
+Você pode criar quadrados coloridos simples no Paint ou qualquer editor:
+- Cor de fundo: Azul LinkedIn (#0077b5)
+- Adicione as letras "LA" (LinkedIn Auto) em branco
+- Salve nas dimensões corretas
+
+## Opção 3: Download de ícone do LinkedIn
+1. Procure por "linkedin icon png" no Google Images
+2. Baixe uma versão de alta qualidade
+3. Use um editor de imagens para redimensionar:
+   - 16x16 pixels
+   - 32x32 pixels
+   - 48x48 pixels
+   - 128x128 pixels
+4. Salve como PNG com fundo transparente
+
+## Ícone Provisório
+Se quiser testar a extensão imediatamente, você pode usar qualquer imagem PNG e renomear para os tamanhos necessários. O Chrome aceitará e redimensionará automaticamente (embora não seja o ideal).
+
+**IMPORTANTE:** Coloque todos os 4 arquivos de ícone na pasta `icons/` antes de carregar a extensão no Chrome.
