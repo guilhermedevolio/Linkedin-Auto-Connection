@@ -2,7 +2,7 @@
 
 Extensão para Chrome que automatiza o envio de convites de conexão no LinkedIn com mensagens personalizadas.
 
-![LinkedIn Auto Connect Interface](https://i.imgur.com/screenshot.png)
+![LinkedIn Auto Connect Interface](image.png)
 
 ## 🚀 Funcionalidades
 
